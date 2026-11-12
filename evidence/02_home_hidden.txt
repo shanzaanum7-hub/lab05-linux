@@ -1,0 +1,21 @@
+total 92
+drwxr-x--- 13 shanzaanum7-hub shanzaanum7-hub  4096 Nov 12 17:21 .
+drwxr-xr-x  3 root            root             4096 Sep 18 14:48 ..
+-rw-------  1 shanzaanum7-hub shanzaanum7-hub  4426 Oct 23 08:10 .bash_history
+-rw-r--r--  1 shanzaanum7-hub shanzaanum7-hub   220 Feb 13  2026 .bash_logout
+-rw-r--r--  1 shanzaanum7-hub shanzaanum7-hub  3771 Feb 13  2026 .bashrc
+drwx------  2 shanzaanum7-hub shanzaanum7-hub  4096 Sep 18 15:10 .cache
+drwx------  3 shanzaanum7-hub shanzaanum7-hub  4096 Oct 23 08:10 .config
+-rw-rw-r--  1 shanzaanum7-hub shanzaanum7-hub   184 Oct 10 17:16 .gitconfig
+-rw-------  1 shanzaanum7-hub shanzaanum7-hub    20 Oct 23 08:43 .lesshst
+drwx------  3 shanzaanum7-hub shanzaanum7-hub  4096 Oct 23 07:05 .local
+-rw-r--r--  1 shanzaanum7-hub shanzaanum7-hub   807 Feb 13  2026 .profile
+drwx------  2 shanzaanum7-hub shanzaanum7-hub  4096 Oct 23 06:46 .ssh
+-rw-------  1 shanzaanum7-hub shanzaanum7-hub 11675 Oct 23 08:40 .viminfo
+drwxrwxr-x  3 shanzaanum7-hub shanzaanum7-hub  4096 Oct 10 17:18 Assignment01
+drwxrwxr-x  3 shanzaanum7-hub shanzaanum7-hub  4096 Oct 10 14:08 Gitea
+drwxrwxr-x  5 shanzaanum7-hub shanzaanum7-hub  4096 Nov 12 17:21 lab05-linux
+drwxrwxr-x  5 shanzaanum7-hub shanzaanum7-hub  4096 Oct 23 08:42 lab06-software
+drwxrwxr-x  2 shanzaanum7-hub shanzaanum7-hub  4096 Sep 21 14:11 mylab
+drwxrwxr-x  3 shanzaanum7-hub shanzaanum7-hub  4096 Oct 10 17:33 shanzaanum7-hub.github.io
+drwx------  2 shanzaanum7-hub shanzaanum7-hub  4096 Oct 23 07:32 snap
