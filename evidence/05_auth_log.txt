@@ -1,0 +1,22 @@
+Nov 12 17:48:11 ubuntu sudo[4338]: shanzaanum7-hub : TTY=/dev/pts/0 ; PWD=/home/shanzaanum7-hub/lab05-linux ; USER=root ; COMMAND=/usr/sbin/adduser lab5user
+Nov 12 17:48:11 ubuntu adduser[4342]: Adding user `lab5user' ...
+Nov 12 17:48:11 ubuntu adduser[4342]: Adding new group `lab5user' (1001) ...
+Nov 12 17:48:11 ubuntu groupadd[4346]: group added to /etc/group: name=lab5user, GID=1001
+Nov 12 17:48:11 ubuntu groupadd[4346]: group added to /etc/gshadow: name=lab5user
+Nov 12 17:48:11 ubuntu groupadd[4346]: new group: name=lab5user, GID=1001
+Nov 12 17:48:11 ubuntu adduser[4342]: Adding new user `lab5user' (1001) with group `lab5user (1001)' ...
+Nov 12 17:48:11 ubuntu useradd[4351]: new user: name=lab5user, UID=1001, GID=1001, home=/home/lab5user, shell=/bin/bash, from=/dev/pts/1
+Nov 12 17:48:11 ubuntu adduser[4342]: Creating home directory `/home/lab5user' ...
+Nov 12 17:48:48 ubuntu passwd[4362]: pam_unix(passwd:chauthtok): password changed for lab5user
+Nov 12 17:49:07 ubuntu chfn[4367]: changed user 'lab5user' information
+Nov 12 17:49:13 ubuntu adduser[4342]: Adding new user `lab5user' to supplemental / extra groups `users' ...
+Nov 12 17:49:13 ubuntu adduser[4342]: Adding user `lab5user' to group `users' ...
+Nov 12 17:49:13 ubuntu gpasswd[4374]: members of group users set by root to shanzaanum7-hub,lab5user
+Nov 12 17:50:01 ubuntu su[4408]: (to lab5user) shanzaanum7-hub on pts/0
+Nov 12 17:50:01 ubuntu su[4408]: pam_unix(su-l:session): session opened for user lab5user(uid=1001) by shanzaanum7-hub(uid=1000)
+Nov 12 17:51:08 ubuntu su[4408]: pam_unix(su-l:session): session closed for user lab5user
+Nov 12 17:51:28 ubuntu su[4491]: (to lab5user) shanzaanum7-hub on pts/0
+Nov 12 17:51:28 ubuntu su[4491]: pam_unix(su-l:session): session opened for user lab5user(uid=1001) by shanzaanum7-hub(uid=1000)
+Nov 12 17:51:49 ubuntu su[4491]: pam_unix(su-l:session): session closed for user lab5user
+Nov 12 17:51:57 ubuntu sudo[4548]: shanzaanum7-hub : TTY=/dev/pts/0 ; PWD=/home/shanzaanum7-hub/lab05-linux ; USER=root ; COMMAND=/usr/bin/grep lab5user /var/log/auth.log
+Nov 12 17:52:18 ubuntu sudo[4562]: shanzaanum7-hub : TTY=/dev/pts/0 ; PWD=/home/shanzaanum7-hub/lab05-linux ; USER=root ; COMMAND=/usr/bin/grep lab5user /var/log/auth.log
